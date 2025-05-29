@@ -1,2 +1,3 @@
 # PICTURE-TO-PLATE
-AIMS round 2 task
+
+This project focuses on leveraging Vision-Language Models (VLMs) to generate concise 2-3 step cooking instructions from food images and noisy titles. Using the InternVL3-2B model, I developed a pipeline that processes images and titles to produce accurate, concise recipes through few-shot prompting. My key learnings include understanding multimodal model integration, effective prompt engineering, and evaluating generated text using ROUGE metrics. The project demonstrates the potential of VLMs in automating recipe generation while highlighting challenges in aligning image and text inputs.
